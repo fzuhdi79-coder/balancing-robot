@@ -265,4 +265,4 @@ Bebas dimodifikasi dan didistribusikan dengan menyertakan atribusi.
 
 ---
 
-*Dibuat dengan ❤️ menggunakan ESP32 + Arduino Framework*
+*Developed with ❤️ by [Zudi Jago/ fzuhdi79-coder]*
